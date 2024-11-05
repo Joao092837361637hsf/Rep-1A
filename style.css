@@ -1,5 +1,16 @@
+body{
+    color: antiquewhite;
+    background: red;
+    font-family: "Prata", serif;
+    margin: 0px;
+    margin-bottom: 100px;
+}
+
+
+
+
 .chamada{
-    background-attachment: red;
+  background-color: firebrick;
     margin-top: 80px;
     margin: bottom 80px;
     display: flex;
